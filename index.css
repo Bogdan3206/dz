@@ -1,0 +1,18 @@
+body {
+}
+div {
+  height: 50px;
+  background: rgb(54, 165, 159);
+  transition-property: height;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  overflow: hidden;
+}
+.rur1 {
+}
+div:hover {
+  height: 260px;
+}
+p {
+  position: fixed;
+}
